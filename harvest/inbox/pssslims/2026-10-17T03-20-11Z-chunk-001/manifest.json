@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "pssslims",
+  "agency_code": "PSSSLIMS",
+  "run_id": "2026-10-17T03-20-11Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:20:11.883Z",
+  "harvester": {
+    "name": "pssslims-slims-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "ca9ea8c87eb865c3f5afa8c384b7e5866fcbd075c8ad654af3e3c87233253764"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "fa061b3f698d47846d49b0534e43f14a0a144785a1ffe8d78746394ab25e3d7e"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "fa9a2f547b2e8a749545fd130306312132ae4875374c222bab324b359f06421d"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "9532467796535fd5ee756bdb0d039ad4a8d1b4277bebaef58e26b7c437237de3"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "51bfd84ea0fd19a51a81e66b680b6ad224f4b521d4fc4b989b9d27d2e23aca33"
+    }
+  ]
+}

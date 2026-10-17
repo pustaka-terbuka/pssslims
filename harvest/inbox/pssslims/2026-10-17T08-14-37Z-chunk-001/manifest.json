@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "pssslims",
+  "source_name": "Pusat Sumber Sekolah Malaysia (SLiMS Engine Gateway)",
+  "source_base_url": "https://slims.web.id/",
+  "terms_url": "https://www.moe.gov.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "pssslims-slims-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T08-14-37Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T08:14:39.400Z",
+  "finished_at": "2026-10-17T08:14:39.400Z",
+  "record_count": 10000,
+  "error_count": 0,
+  "status": "complete",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/pssslims; contact@pustakaterbuka.org)",
+  "notes": "PSSSLIMS harvest finished. Total: 10000 records."
+}
